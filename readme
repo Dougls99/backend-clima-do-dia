@@ -1,0 +1,5 @@
+# Instalações
+
+Utilização da biblioteca Express para criação da API e da biblioteca Axios para requisições HTTP
+
+npm install express axios dotenv
