@@ -1,5 +1,10 @@
 # Instalações
 
 Utilização da biblioteca Express para criação da API e da biblioteca Axios para requisições HTTP
-
 npm install express axios dotenv
+
+#Para iniciar o servidor
+
+bash: node serve.js
+
+Acesse http://localhost:3000/weather?city=NomeDaCidade no seu navegador ou usando uma ferramenta como Postman para ver os dados do clima.
